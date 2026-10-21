@@ -1,0 +1,25 @@
+{
+  "name": "YeKondominium",
+  "short_name": "YeKondo",
+  "description": "Manage your condominium life — announcements, reports, payments, Equb, Iddir, and more.",
+  "theme_color": "#D3AD32",
+  "background_color": "#f8f9fa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
